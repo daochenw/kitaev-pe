@@ -55,9 +55,3 @@ def length(x):
 
     assert x == x%1
     return min(x, 1-x)
-
-
-
-
-
-
